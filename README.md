@@ -1,4 +1,4 @@
-# Armazenamento do Azure
+# Segurança e Identidade no Azure
 ---
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab Segurança e Identidade na Azure na plataforma DIO
 
